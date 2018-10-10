@@ -20,7 +20,7 @@ public Osoba(String Imie, String Nazwisko, int Wiek)
         return "Osoba{" + "Imie=" + Imie + ", Nazwisko=" + Nazwisko + ", Wiek=" + Wiek + '}';
     }
 
-
+ 
 
 public abstract void Mow();
 

@@ -23,5 +23,5 @@ public class Piekarz extends Pracownik {
         return super.PokazDane();
     }
     @Override
-    public  void Mow(){};
+     public  void Mow(){};
 }

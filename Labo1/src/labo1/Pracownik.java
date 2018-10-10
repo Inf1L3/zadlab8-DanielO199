@@ -11,7 +11,7 @@ public abstract class Pracownik extends Osoba {
 
     @Override
     public String PokazDane() {
-        return "Pracownik{" + "Zawod=" + Zawod + '}'+ super.PokazDane();
+        return "Pracownik{" + "Zawod=" + Zawod + '}'+ super.PokazDane(); 
     }
     
     public abstract void WykonajPrace();

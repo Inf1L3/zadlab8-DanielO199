@@ -15,7 +15,7 @@ public class Labo1 {
          System.out.println(tab[2].PokazDane());
           tab[3] = new Mechanik("Dominika", "Rudy", 100);
          System.out.println(tab[3].PokazDane());
-         
+          
     }
     
 }

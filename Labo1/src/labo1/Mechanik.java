@@ -20,6 +20,6 @@ public class Mechanik extends Pracownik {
     public String PokazDane(){
     return super.PokazDane();
     }
-    public  void Mow(){};
+    public  void Mow(){}; 
     
 }

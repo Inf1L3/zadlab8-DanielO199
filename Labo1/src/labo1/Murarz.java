@@ -4,7 +4,7 @@ package labo1;
 
 public  class Murarz extends Pracownik{
     public Murarz (String Imie, String Nazwisko, int Wiek){
-    super(Imie, Nazwisko, Wiek ,"Murarz");
+    super(Imie, Nazwisko, Wiek ,"Murarz"); 
     }
 
     @Override

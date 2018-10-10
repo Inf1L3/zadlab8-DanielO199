@@ -20,5 +20,5 @@ public  class Nauczyciel extends Pracownik{
     
     return super.PokazDane();
     }
-    public  void Mow(){};
+    public  void Mow(){}; 
 }
