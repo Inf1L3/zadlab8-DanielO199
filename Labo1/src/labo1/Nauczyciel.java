@@ -5,7 +5,7 @@ public  class Nauczyciel extends Pracownik{
     public Nauczyciel(String Imie, String Nazwisko, int Wiek){
     super(Imie,Nazwisko,Wiek,"Nauczyciel");
     }
-
+ 
     @Override
     public String toString() {
         return super.toString();

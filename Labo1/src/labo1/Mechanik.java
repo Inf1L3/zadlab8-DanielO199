@@ -7,7 +7,7 @@ public class Mechanik extends Pracownik {
     }
 
     @Override
-    public String toString() {
+    public String toString() { 
         return super.toString();
     }
     

@@ -6,7 +6,7 @@ public class Piekarz extends Pracownik {
     public Piekarz(String Imie, String Nazwisko,int Wiek){
     super(Imie,Nazwisko,Wiek,"Piekarz");
     
-    }
+    } 
 
     @Override
     public String toString() {

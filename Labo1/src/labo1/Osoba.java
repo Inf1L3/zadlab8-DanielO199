@@ -2,7 +2,7 @@ package labo1;
 
 
 public abstract class Osoba {
-    
+     
 private String Imie;
 private String Nazwisko;
 private int Wiek; 

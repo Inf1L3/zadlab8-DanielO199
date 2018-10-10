@@ -2,7 +2,7 @@ package labo1;
 
 
 public class Labo1 {
-
+ 
     
     public static void main(String[] args) {
        

@@ -7,7 +7,7 @@ public  class Murarz extends Pracownik{
     super(Imie, Nazwisko, Wiek ,"Murarz"); 
     }
 
-    @Override
+    @Override 
     public String toString() {
         return super.toString();
     }
